@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact I'm always sleepy during my classes
+🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning mern stack<br>💬 Ask me about<br>⚡ Fun fact I'm always sleepy during my classes
 
 
 ## 🌐 Socials:
